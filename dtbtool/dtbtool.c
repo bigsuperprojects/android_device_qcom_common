@@ -44,7 +44,7 @@
 #define QCDT_MAGIC     "QCDT"  /* Master DTB magic */
 #define QCDT_VERSION   3       /* QCDT version */
 
-#define QCDT_DT_TAG    "qcom,msm-id = <"
+#define QCDT_DT_TAG    "htc,msm-id = <"
 #define QCDT_BOARD_TAG "qcom,board-id = <"
 #define QCDT_PMIC_TAG  "qcom,pmic-id = <"
 
